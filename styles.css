@@ -99,13 +99,20 @@ h3 {
   position: absolute;
   top: 1200px;
   left: 62px;
+  text-decoration: none;
 }
 
 a {
   font-family: var(--family-text);
   font-size: 40px;
-  color: white;
+  color: #c8ff9d;
   text-decoration: none;
+}
+
+li {
+  color: white;
+  font-size: 25px;
+  font-family: var(--family-text);
 }
 
 .cabezaTercera {
